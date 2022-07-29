@@ -1,5 +1,5 @@
 IFS=$'\n'
 for pdfName in $(ls | grep '.*\.pdf')
 do
-  echo "- [$(echo $pdfName | cut -d . -f1)]('https://media.githubusercontent.com/media/QiuYiLiang/book/master/$pdfName')"
+  echo "- [$(echo $pdfName | cut -d . -f1)](https://media.githubusercontent.com/media/QiuYiLiang/book/master/$(echo $pdfName | sed 's/ /%20/g'))"
 done > README.md
