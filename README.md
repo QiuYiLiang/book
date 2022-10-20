@@ -1,3 +1,4 @@
 - [C++ Primer](https://media.githubusercontent.com/media/QiuYiLiang/qiuyiliang.github.io/master/C++%20Primer.pdf)
 - [深入理解计算机系统](https://media.githubusercontent.com/media/QiuYiLiang/qiuyiliang.github.io/master/深入理解计算机系统.pdf)
+- [算法导论](https://media.githubusercontent.com/media/QiuYiLiang/qiuyiliang.github.io/master/算法导论.pdf)
 - [设计模式](https://media.githubusercontent.com/media/QiuYiLiang/qiuyiliang.github.io/master/设计模式.pdf)
